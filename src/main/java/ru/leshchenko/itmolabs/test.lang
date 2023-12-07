@@ -1,0 +1,11 @@
+begin
+  let a be 4
+  let b be 8
+  // fact a of 5
+  /*
+  let c be 8
+  print c
+  div b by a
+  */
+  print b
+end
